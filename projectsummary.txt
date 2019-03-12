@@ -1,0 +1,48 @@
+project summary
+
+Building Bling
+Buildingbling is an online portal specialized in connecting users seeking to find construction products and services with the right sources that provide it. Whether you are a vendor, a contractor, a consultant, a developer, or an individual looking to find or showcase construction products and services, Buildingbling is your tool. Our portal is designed in a familiar and structured manner based on industry standards. We aim to save you the time and money wasted in making wrong selections in sourcing your construction products and services by providing you with a platform that allows the user to vet products and services, their suitability for your intended use, the profiles of those providing them, and the feedback of those that have used them before. 
+
+SS APP
+Purpose of Project 
+    SS Agro Foods Pvt Ltd is a Rice Manufacturing Company, also they have their own retail outlets in and around of Tiruppur Region. 
+    The company wants a Cloud based solution to maintain their Inventory, Stocks, Transit, Accounts, Point of Sale, Customers, discounts & Gifts. 
+    The main goal of the application is to simplify the functional activities of the business through computerize the process and maintain the records for reports. 
+    The main functional areas of the Business are 1. Factory/ Warehouse 2. Stores 
+Factory: (Users in Factory doing the following activities.) 
+    Setup the Application by setting up Inventory, Other items, Stores, Customer groups, Gifts, Vehicles/ Fleets, Admin users with permissions, Accounts & Preferences. 
+    Maintain stock in various stages like Production stock, Sales stock, Return stock, Transit stock, Reprocess stock & Scrap stock. 
+    Maintain accounts as ledgers, also maintain their expenditures, receivable & transfer between ledgers. 
+    Maintain Transit between stores and factory/ warehouse. 
+    Generate relevant reports of the business. 
+Store: (Users in Store doing the following activities.) 
+    Sales Entries cum Invoice.
+    Sales is for retail sales, Invoice is for wholesale. 
+    Manage Store’s Sales, Return & Transit Stocks. 
+    Maintain Store’s accounts(ledgers), also maintain their expenditures, receivables, transfer to bank account & transfer to factory’s/ warehouse’s cash account. 
+    View available Gifts. 
+    Generate relevant reports to the Store Business activities. 
+
+Ogee 
+A comprehensive digital solution to the memorial manufacturer and supply, highly customized order processing focusing on the customer needs.
+High visionary company willing to power their business
+objectives with exponent strategies that makes rapid
+strides in the customer satisfaction. They are the
+leading Stone memorial manufacturers with
+customization.
+Requires a versatile and collaborative digital platform with exclusive customization. Entails to the modern and convenient tracking system and the convenient handling of the customer requirements. Most insisted was the handling of accounts innovatively and required a quick overview platform.
+The Decision and Approach:
+With great understanding and employing the customized requirement, our team worked exclusively to bring the features to support the business with the multi-fold growth. The integration of various modules that customizes the better way meeting the vision of the client.
+The Implementation:
+Much concentrated over the high customization with add-ons, quick batch allocation and tracking in order management, innovative collaboration and communication and a precise personalized customer portal. Setting the profits based on customers, the secured accounts management, unique and informative dashboard and the report generation.
+The digital solution with the online order tracking was implemented which allows the users to create the memorial. The client was pleased to see happy and returning customers. They could effectively use the batch allocation and batch tracking system saving on time and energy. Things were streamlined with the anytime collaboration with the customers and order status notifications. Enhanced was the experience with the personalized customer access. The unique concept of profit setting improves better business. The uncompromised accounts tracking along with the customized report generation makes practical efficiency.
+OGEE Granites defines to be the best custom software for handling stone memorial customized orders,
+customers and the procedures. The development supported and gratified the clients vision.
+
+Global Textile Manufacturer Portal
+A leading global textile manufacturer having collaborated with PROBESEVEN declares improved business productivity and multi-fold ROI, condenses overhead costs with automation and collaboration.
+PROBESEVEN conceptualized with the expert team to implement the new strategies in development. It was decided to create modules right from the yarn purchase department to the complete fabrication and logistics the various modules with all the inward and outward functions along with the clear and transparent stock movements were customized.
+ntegrating the convenient Dashboard to ease the supervision, swift feedback, ultimate customer satisfaction. Providing user-centric information, simple yet modern UI, drag and drop order status, device first approach, high availability, high reliability and security. The hybrid development with the cutting-edge technology with the advantage of the framework, design, concept along with the flexibility and reliability made it exclusive. Provided a cross platform support and device friendly, it does prove to give better user-experience.
+Ensuring the smooth implementation of the ERP running in the core business which endlessly manages the complete production, stock, team, stakeholders, testing and all the required change management. With the required training and the post-delivery maintenance are taken care with great fulfilment.
+The Results:
+The futuristic solution by PROBESEVEN helped to position back the company to compete greatly, wonderful reporting enriched the customer satisfaction and was happy to improve the overall business productivity. The final declaration with the ROI was multi-fold. As a progressive scenario, the company is now planning to incorporate digitalization additionally to its other raw material productions.
